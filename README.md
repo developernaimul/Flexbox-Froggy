@@ -56,7 +56,9 @@ Solutions Flexbox Froggy, a game where you help Froggy and friends by writing CS
 23) flex-direction: column-reverse;
     align-content: center; 
 
-24) flex-flow:column-reverse wrap-reverse;
+24) flex-flow: column-reverse wrap-reverse;
     justify-content: center;
     align-content: space-between;
     
+<img src="https://i.ibb.co/M2CV1Jr/developernaimul.png" alt="developernaimul Flexbox-Froggy
+"></a>
